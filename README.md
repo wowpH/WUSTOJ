@@ -4,7 +4,7 @@
 
 ## 新手指南
 
-1. 在:round_pushpin:[这里](https://github.com/wowpH/WUSTOJ/blob/master/%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9B%AE%E5%BD%95.md)可以查看这个存储库里所有代码的:page_facing_up:[目录](https://github.com/wowpH/WUSTOJ/blob/master/%E9%A2%98%E7%9B%AE%E8%A7%A3%E6%9E%90%E9%93%BE%E6%8E%A5%E7%9A%84%E7%9B%AE%E5%BD%95.md)，方便查阅代码。
+1. 在[这里](代码目录.md)可以查看这个存储库里所有代码的目录，更加方便的查阅代码。
 
 ## 代码语言
 
