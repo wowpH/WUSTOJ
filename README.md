@@ -1,6 +1,6 @@
 # WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-这个[仓库](https://github.com/wowpH/WUSTOJ)用于保存[WUSTOJ](http://acm.wust.edu.cn/)题目的`AC`代码。
+这个 [***仓库***](https://github.com/wowpH/WUSTOJ) 用于保存 [***WUSTOJ***](http://acm.wust.edu.cn/) 题目的`AC`代码。
 
 WUSTOJ的代码是闭源的，每个人只能查看自己的代码。我觉得这并不能让大家便捷的学习如何编程。
 
