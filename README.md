@@ -1,8 +1,14 @@
 # WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-这个[仓库](https://github.com/wowpH/WUSTOJ)用于保存[WUSTOJ](http://acm.wust.edu.cn/)题目的提交代码。<br/>
+这个[仓库](https://github.com/wowpH/WUSTOJ)用于保存[WUSTOJ](http://acm.wust.edu.cn/)题目的`AC`代码。
 
-据我所知WUSTOJ只能看自己提交的代码，并不能看其他人的代码。每次看到别人提交用时如此之短的时候，我就在想我要是知道他的代码是怎么写的就好了，可以好好学习一下。于是就创建这个项目，我希望能通过大家的力量，为别人提供更加优质的代码和解题思路。
+WUSTOJ的代码是闭源的，每个人只能查看自己的代码。我觉得这并不能让大家便捷的学习如何编程。
+
+就我个人来说，有些题目是真的做不出来，而且网上也不容易搜到解题思路。
+
+因此，我想通过GitHub，让大家在这里分享自己的代码。通过别人的代码来查找自己的问题，来提高自己的`Coding`能力。
+
+最后，祝大家**AC**顺利！！！
 
 ## 新手指南
 
