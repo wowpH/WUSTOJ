@@ -1,6 +1,7 @@
 # WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 这个[仓库](https://github.com/wowpH/WUSTOJ)用于保存[WUSTOJ](http://acm.wust.edu.cn/)题目的提交代码。<br/>
+
 据我所知WUSTOJ只能看自己提交的代码，并不能看其他人的代码。每次看到别人提交用时如此之短的时候，我就在想我要是知道他的代码是怎么写的就好了，可以好好学习一下。于是就创建这个项目，我希望能通过大家的力量，为别人提供更加优质的代码和解题思路。
 
 ## 新手指南
