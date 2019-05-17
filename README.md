@@ -2,24 +2,26 @@
 
 ## 前言
 
-&emsp;&emsp;WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很容易让自己的代码只局限于自己的思维。另一方面，有些题目是真的很难，几乎没什么人做出来，也很少人尝试，从而导致愿意攻克它的人就更少了。因此，我想通过GitHub，让已经解答出题目来的大佬在这里分享自己的代码，让更多的人能够去研究代码，最终让大家有想法（太难的题目我**相信**绝大多数人看都不敢看）去尝试难题。
+WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很容易让自己的代码只局限于自己的思维。另一方面，有些题目是真的很难，几乎没什么人做出来，也很少人尝试，从而导致愿意攻克它的人就更少了。因此，我想通过GitHub，让已经解答出题目来的大佬在这里分享自己的代码，让更多的人能够去研究代码，最终让大家有想法（太难的题目我**相信**绝大多数人看都不敢看）去尝试难题。
 
-&emsp;&emsp;**真香警告**，不要一味的**复制粘贴**，那只会**浪费**自己以后用来“**玩**”的时间。
+**真香警告**，不要一味的**复制粘贴**，那只会**浪费**自己以后用来“**玩**”的时间。
 
-&emsp;&emsp;最后，祝大家**AC**顺利！！！
+最后，祝大家**AC**顺利！！！
 
 ## 项目介绍
 
-&emsp;&emsp;这个 [仓库](https://github.com/wowpH/WUSTOJ) 的作用是保存 [Welcome To Online Judge](http://acm.wust.edu.cn/) 上所有题目的`AC`代码。
+这个 [仓库](https://github.com/wowpH/WUSTOJ) 的作用是保存 [Welcome To Online Judge](http://acm.wust.edu.cn/) 上所有题目的`AC`代码。
 
 ## 新手指南
 
-1. 在[这里](代码目录.md)可以查看这个存储库里所有代码的目录，更加方便的查阅代码。
+1. 在[这里](代码目录.md)可以查看这个仓库里所有代码的目录，便于大家快速找到对应的解析，代码和题目。
+2. 如果觉得本项目对你有帮助的话，欢迎点击当前页面最上面的`Star`收藏起来。如果你的问题本仓库暂未收录代码和解析的话，欢迎点击本页面上面的`Watch`并选择`Watching`，以便本仓库收录该题代码的时候能够提醒你。
 
 ## 代码语言
 
 - Java
 - C
+- 有待补充
 
 ## 贡献代码
 
@@ -32,19 +34,16 @@
 - 若本项目**有**该题的（旧）代码，那么你的代码**提交排名**必须在**旧**代码的**前面**。
 - 更多内容请参考[规范](规范.md)
 
-|代码贡献者|语言版本|联系方式|
-|:-:|:-:|:-:|
-|[@wowpH](https://github.com/wowpH "wowpH的GitHub")|Java/C|929450073@qq.com|
+|                     代码贡献者                      |  语言版本  |      联系方式     |
+|:--------------------------------------------------:|:---------:|:-----------------:|
+| [@wowpH](https://github.com/wowpH "wowpH的GitHub") |   Java/C   | 929450073@qq.com |
 
 ## 相关链接
 
-- WUSTOJ专栏：[WUSTOJ - wowpH（Not Simple Java） - wowpH - CSDN博客](https://blog.csdn.net/pfdvnah/column/info/37339)
-- 我的博客：[【wowpH】Not Simple Java - CSDN博客](https://blog.csdn.net/pfdvnah)
+- wowpH-CSDN的WUSTOJ专栏：[WUSTOJ - wowpH（Not Simple Java） - wowpH - CSDN博客](https://blog.csdn.net/pfdvnah/column/info/37339)
+- wowpH的博客：[【wowpH】Not Simple Java - CSDN博客](https://blog.csdn.net/pfdvnah)
 
 ## 项目状态
 
 持续更新中...
 
-## 更新时间
-
-2019年5月17日13:41:18
