@@ -1,4 +1,4 @@
-# WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![](http://progressed.io/bar/1?title=完成)
+# WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![](http://progressed.io/bar/0?title=完成) ![](https://img.shields.io/badge/Java-4-brightgreen.svg) ![](https://img.shields.io/badge/C-0-brightgreen.svg) ![](https://img.shields.io/badge/C++-0-brightgreen.svg) ![](https://img.shields.io/badge/Other-0-brightgreen.svg)
 
 ## 前言
 
