@@ -1,4 +1,4 @@
-# WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+# WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![](http://progressed.io/bar/1?title=完成)
 
 ## 前言
 
@@ -52,4 +52,3 @@ WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很�
 ## 项目状态
 
 持续更新中...
-
