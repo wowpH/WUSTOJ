@@ -1,4 +1,4 @@
-# WUSTOJ [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![](http://progressed.io/bar/0?title=完成) [![](https://img.shields.io/badge/Java-4-brightgreen.svg)](Java版) ![](https://img.shields.io/badge/C-0-brightgreen.svg) ![](https://img.shields.io/badge/C++-0-brightgreen.svg) ![](https://img.shields.io/badge/Other-0-brightgreen.svg)
+# WUSTOJ [![996.icu][996.icu]](https://996.icu) ![](http://progressed.io/bar/0?title=完成) [![](https://img.shields.io/badge/Java-4-brightgreen.svg)](Java版) ![](https://img.shields.io/badge/C-0-brightgreen.svg) ![](https://img.shields.io/badge/C++-0-brightgreen.svg) ![](https://img.shields.io/badge/Other-0-brightgreen.svg)
 
 ## 前言
 
@@ -52,3 +52,6 @@ WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很�
 ## 项目状态
 
 持续更新中...
+
+
+[996.icu]:https://img.shields.io/badge/link-996.icu-red.svg "996.icu项目"
