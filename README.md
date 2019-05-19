@@ -53,5 +53,7 @@ WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很�
 
 持续更新中...
 
-
+[^_^]: # (url标识)
 [996.icu]:https://img.shields.io/badge/link-996.icu-red.svg "996.icu项目"
+
+
