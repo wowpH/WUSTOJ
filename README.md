@@ -1,12 +1,12 @@
 # WUSTOJ
 <!--<a href="https://996.icu" target="_blank"><img src="https://img.shields.io/badge/link-996.icu-red.svg"/></a>-->
+<!--[![](https://img.shields.io/badge/Java-4-brightgreen.svg)](Java版)-->
 [![996.icu][img-996.icu]][url-996.icu]
 ![][img-complete]
-<!--[![](https://img.shields.io/badge/Java-4-brightgreen.svg)](Java版)-->
 [![][img-java]](Java版)
-![](https://img.shields.io/badge/C-0-brightgreen.svg)
-![](https://img.shields.io/badge/C++-0-brightgreen.svg)
-![](https://img.shields.io/badge/Other-0-brightgreen.svg)
+![][img-c]
+![][img-cpp]
+![][img-other]
 
 ## 前言
 
@@ -65,6 +65,9 @@ WUSTOJ的代码是闭源的，每个人只能查看自己的代码。这样很�
 [img-996.icu]:https://img.shields.io/badge/link-996.icu-red.svg "996.icu项目徽章"
 [img-complete]:http://progressed.io/bar/0?title=完成 "收录代码的题目数量占WUSTOJ题目总量的百分比"
 [img-java]:https://img.shields.io/badge/Java-4-brightgreen.svg "Java语言的代码数量"
+[img-c]:https://img.shields.io/badge/C-0-brightgreen.svg "C语言的代码数量"
+[img-cpp]:https://img.shields.io/badge/C++-0-brightgreen.svg "C++语言的代码数量"
+[img-other]:https://img.shields.io/badge/Other-0-brightgreen.svg "其他语言的代码数量"
 
 [url-996.icu]:https://996.icu "996.icu项目"
 
