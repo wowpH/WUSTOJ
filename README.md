@@ -8,8 +8,6 @@
 ![][img-cpp]
 ![][img-other]
 
-开源需自立，我去码云了。链接：https://gitee.com/wowpH/WUSTOJ-Code-Base
-
 ## 前言
 
 [WUSTOJ][url-wustoj]的代码是闭源的，每个人只能查看自己的代码。这样很容易让自己的代码只局限于自己的思维。另一方面，有些题目是真的很难，几乎没什么人做出来，也很少人尝试，从而导致愿意攻克它的人就更少了。因此，我想通过GitHub，让已经解答出题目来的大佬在这里分享自己的代码，让更多的人能够去研究代码，最终让大家有想法（太难的题目我**相信**绝大多数人看都不敢看）去尝试难题。
@@ -66,8 +64,8 @@
 [^_^]: # (url标识)
 [img-996.icu]:https://img.shields.io/badge/link-996.icu-red.svg "996.icu项目徽章"
 [img-complete]:http://progressed.io/bar/0?title=完成 "收录代码的题目数量占WUSTOJ题目总量的百分比"
-[img-java]:https://img.shields.io/badge/Java-5-brightgreen.svg "Java语言的代码数量"
-[img-c]:https://img.shields.io/badge/C-0-brightgreen.svg "C语言的代码数量"
+[img-java]:https://img.shields.io/badge/Java-6-brightgreen.svg "Java语言的代码数量"
+[img-c]:https://img.shields.io/badge/C-1-brightgreen.svg "C语言的代码数量"
 [img-cpp]:https://img.shields.io/badge/C++-0-brightgreen.svg "C++语言的代码数量"
 [img-other]:https://img.shields.io/badge/Other-0-brightgreen.svg "其他语言的代码数量"
 
