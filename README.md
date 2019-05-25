@@ -63,9 +63,9 @@
 
 [^_^]: # (url标识)
 [img-996.icu]:https://img.shields.io/badge/link-996.icu-red.svg "996.icu项目徽章"
-<!--已收录数量：：9题（重复不算），总题数：1620，百分比：0.56%-->
+<!--已收录数量：：10题（重复不算），总题数：1620，百分比：0.62%-->
 [img-complete]:http://progressed.io/bar/0?title=完成 "收录代码的题目数量占WUSTOJ题目总量的百分比"
-[img-java]:https://img.shields.io/badge/Java-6-brightgreen.svg "Java语言的代码数量"
+[img-java]:https://img.shields.io/badge/Java-7-brightgreen.svg "Java语言的代码数量"
 [img-c]:https://img.shields.io/badge/C-4-brightgreen.svg "C语言的代码数量"
 [img-cpp]:https://img.shields.io/badge/C++-0-brightgreen.svg "C++语言的代码数量"
 [img-other]:https://img.shields.io/badge/Other-0-brightgreen.svg "其他语言的代码数量"
