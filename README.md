@@ -4,7 +4,7 @@
 [![996.icu][img-996.icu]][url-996.icu]
 ![][img-complete]
 [![][img-java]](Java版)
-![][img-c]
+[![][img-c]](C版)
 ![][img-cpp]
 ![][img-other]
 
