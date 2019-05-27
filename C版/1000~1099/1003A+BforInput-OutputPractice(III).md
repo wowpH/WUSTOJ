@@ -1,4 +1,4 @@
-```Java
+```C
 /**
  * Time 1ms
  * @author wowpH
