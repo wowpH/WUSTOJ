@@ -18,14 +18,14 @@
 
 ## 项目介绍
 
-这个 [:open_file_folder:仓库][url-here] 的作用是保存 [:link:Welcome To Online Judge][url-wustoj] 上所有题目的`AC`代码。
+这个 [:bookmark:仓库][url-here] 的作用是保存 [:link:Welcome To Online Judge][url-wustoj] 上所有题目的`AC`代码。
 
 ## 新手指南
 
-1. 在[:open_file_folder:这里](代码目录.md)可以查看这个仓库里所有代码的目录，便于大家快速找到对应的解析，代码和题目。
+1. 在[:page_facing_up:这里](代码目录.md)可以查看这个仓库里所有代码的目录，便于大家快速找到对应的解析，代码和题目。
 2. 如果觉得本项目对你有帮助的话，欢迎点击当前页面最上面的`Star`收藏起来。如果你的问题本仓库暂未收录代码和解析的话，欢迎点击本页面上面的`Watch`并选择`Watching`，以便本仓库收录该题代码的时候能够提醒你。
 3. 打开站外链接按`Ctrl + 左键`能够在新标签页打开，而不是替换当前页面。
-4. 表情说明：:link:表示站外链接，:open_file_folder:表示站内文件夹，:page_facing_up:表示站内文件。
+4. 表情说明：:link:表示站外链接，:bookmark:表示站内链接，:open_file_folder:表示站内文件夹，:page_facing_up:表示站内文件。
 
 ## 代码语言
 
