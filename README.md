@@ -18,18 +18,19 @@
 
 ## 项目介绍
 
-这个 [:link:仓库][url-here] 的作用是保存 [:link:Welcome To Online Judge][url-wustoj] 上所有题目的`AC`代码。
+这个 [:open_file_folder:仓库][url-here] 的作用是保存 [:link:Welcome To Online Judge][url-wustoj] 上所有题目的`AC`代码。
 
 ## 新手指南
 
-1. 在[:link:这里](代码目录.md)可以查看这个仓库里所有代码的目录，便于大家快速找到对应的解析，代码和题目。
+1. 在[:open_file_folder:这里](代码目录.md)可以查看这个仓库里所有代码的目录，便于大家快速找到对应的解析，代码和题目。
 2. 如果觉得本项目对你有帮助的话，欢迎点击当前页面最上面的`Star`收藏起来。如果你的问题本仓库暂未收录代码和解析的话，欢迎点击本页面上面的`Watch`并选择`Watching`，以便本仓库收录该题代码的时候能够提醒你。
-3. 按`Ctrl + 左键`能够在新标签页打开链接，而不是替换当前页面，这样方便阅读。
+3. 打开站外链接按`Ctrl + 左键`能够在新标签页打开，而不是替换当前页面。
+4. 表情说明：:link:表示站外链接，:open_file_folder:表示站内文件夹，:page_facing_up:表示站内文件。
 
 ## 代码语言
 
-- [Java](Java版 "Java语言代码文件夹")
-- [C](C版 "C语言代码文件夹")
+- [:open_file_folder:Java](Java版 "Java语言代码文件夹")
+- [:open_file_folder:C](C版 "C语言代码文件夹")
 - 有待补充
 
 ## 贡献代码
@@ -41,7 +42,7 @@
 - 必须要能够**AC**的
 - 若本项目**没有**该题代码，那么一定会被采纳
 - 若本项目**有**该题的（旧）代码，那么你的代码**提交排名**必须在**旧**代码的**前面**。
-- 更多内容请参考[规范](规范.md)
+- 更多内容请参考[:page_facing_up:规范](规范.md)
 
 如果你不想（或者不会）自己添加代码，也可以将代码（文本形式），你的该题目的博客链接（可以无），你的联系方式（可以无），以及你的相关链接（举例：个人博客，或者GitHub账号，可以无）一起打包发给送到929450073@qq.com。该题版权依然归你。
 
@@ -51,8 +52,8 @@
 
 ## 相关链接
 
-- wowpH-CSDN的WUSTOJ专栏：[WUSTOJ - wowpH（Not Simple Java） - wowpH - CSDN博客](https://blog.csdn.net/pfdvnah/column/info/37339)
-- wowpH的博客：[【wowpH】Not Simple Java - CSDN博客](https://blog.csdn.net/pfdvnah)
+- wowpH-CSDN的WUSTOJ专栏：[:link:WUSTOJ - wowpH（Not Simple Java） - wowpH - CSDN博客](https://blog.csdn.net/pfdvnah/column/info/37339)
+- wowpH的博客：[:link:【wowpH】Not Simple Java - CSDN博客](https://blog.csdn.net/pfdvnah)
 
 ## 版权声明
 
